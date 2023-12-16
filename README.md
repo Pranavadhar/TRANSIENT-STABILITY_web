@@ -4,4 +4,4 @@ FIND THE LOAD ANGLE & OBTAIN THE PLOT FOR THE TRANSIENT STABILITY.
 .
 RESTART THE SPACE IF IT IS SLEEPING.
 
-LINK : <h1>https://huggingface.co/spaces/Pranavadhar/TRANSIENT_STABILITY</h1?
+LINK : <h1>https://huggingface.co/spaces/Pranavadhar/TRANSIENT_STABILITY</h1>
